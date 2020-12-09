@@ -3,64 +3,64 @@
     "languages": [
         {
             "id": "de-DE",
-            "sha": "ff9ca012c9686fac6367f7f17fc79f29a8343a6d14d2eaf20c2ee56d69942c28",
+            "sha": "fd5e45d7e7496abfb595b94ed06eda0b81432d309f61a50589e5de4bada1ab41",
             "tag": "de_DE",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-de_DE.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-de_DE.zip"
         },
         {
             "id": "en-US",
-            "sha": "d27ed514a48a478fc66014cf97bd78b1bf7c9622e696ee8cb3bdc0031fac75f0",
+            "sha": "da26a5f01b16d84ac8a07f4f57bdc26b46e0e8a0fb41dcdeabcde0db646558b1",
             "tag": "en_US",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-en_US.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-en_US.zip"
         },
         {
             "id": "es-ES",
-            "sha": "dd8e1a81cb82e17213aeb8923ac73322be7b22bbf438df27db94f27ee7a27379",
+            "sha": "9e1eb236877a42a1a9b8f5204fb203a27c167dee94a200b5150f83c9c481fabb",
             "tag": "es_ES",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-es_ES.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-es_ES.zip"
         },
         {
             "id": "fr-FR",
-            "sha": "ce74e062dfcdedfc3dd11784dc20302ff629b4a8919bec7968c9158196314945",
+            "sha": "95abfc45a0121119cc1cc7a216b37ae5649c326920fe97649fc38df5feabb4e5",
             "tag": "fr_FR",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-fr_FR.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-fr_FR.zip"
         },
         {
             "id": "it-IT",
-            "sha": "705e119621682d69f919ffb65f83e74eb40768f266704d58248307b71b47f918",
+            "sha": "097ca116b887893a6f2bae61c02e351304cfe5bc507d472fba821088c5c4b250",
             "tag": "it_IT",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-it_IT.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-it_IT.zip"
         },
         {
             "id": "ja-JP",
-            "sha": "db370250ede4e9e249819439e0b86e4864962021319663dbb28261ad8d991744",
+            "sha": "6fc9b72ed07a18fe3a5231a81d699903d868491bc29d2978b5382bf2a8d2efc4",
             "tag": "ja_JP",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-ja_JP.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-ja_JP.zip"
         },
         {
             "id": "ko-KR",
-            "sha": "7e8020119741d02659cc0f2732308ece057ea3a3d13a7b91ced997ea118e987b",
+            "sha": "d8d1b68e3e645f2ba826c45cde3ac712576190cdfa25b6af9464992cdc77f80f",
             "tag": "ko_KR",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-ko_KR.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-ko_KR.zip"
         },
         {
             "id": "zh-Hans-CN",
-            "sha": "2d5529a7a49ec4231a12422d6fe9a7ffbcd68caa33f9e8097d1733dcbb074e89",
+            "sha": "dda3d34b7f83eb6ac75a0bd037f3f045f19cf4241c0215b6619e5345a4726f62",
             "tag": "zh_CN",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-zh_CN.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-zh_CN.zip"
         },
         {
             "id": "zh-Hant-HK",
-            "sha": "a73acf14340cef534ca1331610161960c20fb60b315b9d20a55b5ff66936612c",
+            "sha": "e9b48186782067ef2830b3983c8a43f8ce2c60260303accaf12866b45b18c5d8",
             "tag": "zh_HK",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-zh_HK.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-zh_HK.zip"
         },
         {
             "id": "zh-Hant-TW",
-            "sha": "c1132ce355063b60e5269b558c588a25cdaf955cd28056f043883822f29883ad",
+            "sha": "ac325eec1852584c0da1653cfa5115e3287eeaf0d69e72a36b1485e8f72494ed",
             "tag": "zh_TW",
-            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.4/myscript-iink-recognition-text-zh_TW.zip"
+            "url": "https://github.com/jingkecn/myscript-recognition-assets/releases/download/v1.5/myscript-iink-recognition-text-zh_TW.zip"
         }
     ],
-    "version": 1.4
+    "version": 1.5
 }
