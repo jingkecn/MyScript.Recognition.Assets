@@ -1,0 +1,50 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "languages": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/language"
+            }
+        },
+        "version": {
+            "type": "number",
+            "description": "The language version, see: https://developer.myscript.com/support/recognition-assets"
+        }
+    },
+    "definitions": {
+        "language": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "description": "The language identifier, under IETF BCP47 standard, for example, en-US.",
+                    "default": "en-US"
+                },
+                "sha": {
+                    "type": "string",
+                    "description": "SHA256 checksum of the language asset for validation.",
+                    "default": ""
+                },
+                "tag": {
+                    "type": "string",
+                    "description": "The language tag, under MyScript's convention, for example, en_US.",
+                    "default": "en_US"
+                },
+                "url": {
+                    "type": "string",
+                    "description": "The download url of the language asset.",
+                    "default": "https://github.com/jingkecn/myscript-recognition-assets/releases/latest/download/myscript-iink-recognition-text-en_US.zip"
+                }
+            },
+            "required": [
+                "id",
+                "sha",
+                "tag",
+                "url"
+            ],
+            "additionalProperties": false
+        }
+    }
+}
